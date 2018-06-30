@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Controle LED</string>
+    <string name="config">Configurações</string>
+    <string name="txt_disp">Dispositivos pareados:</string>
+    <string name="txt_img">LED</string>
+    <string name="swt_LED">Switch_LED</string>
+
+    <string name="ligar">Ligar</string>
+    <string name="desligar">Desligar</string>
+    <string name="txt_disp1">Dispositivos pareados:</string>
+</resources>
